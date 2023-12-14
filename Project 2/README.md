@@ -1,7 +1,7 @@
 # Project-2-Startup-food-products
 Анализ пользовательского поведения в мобильном приложении
 
-[HTML](https://github.com/alsuhow/Project-2-Startup-food-products/blob/main/Startup%2C%20food%20products.html) [ipynb](https://github.com/alsuhow/Portfolio/blob/main/Project%202/Startup%2C%20food%20products.ipynb)
+[HTML](https://github.com/alsuhow/Portfolio/blob/main/Project%202/Startup%2C%20food%20products.html) [ipynb](https://github.com/alsuhow/Portfolio/blob/main/Project%202/Startup%2C%20food%20products.ipynb)
 ## Описание проекта
 На основе данных использования мобильного приложения для продажи продуктов питания проанализировать воронку продаж, а также оценить результаты A/A/B-тестирования
 
