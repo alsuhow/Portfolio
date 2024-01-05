@@ -1,5 +1,6 @@
 ## Monte-karlo
 [ipnyb](https://github.com/alsuhow/Portfolio/blob/main/MonteKarlo/MonteKarlo.ipynb) [html](https://github.com/alsuhow/Portfolio/blob/main/MonteKarlo/MonteKarlo.html)
+
 Методы Монте-Карло — это набор методов в математике для изучения случайных процессов. Случайных — это когда что-то в них происходит непредсказуемым образом, например:
 
 - подбрасываем монетку;
